@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+folium
+streamlit-folium
+google-generativeai
+geopy
+streamlit-extras
+tweepy
+Pillow
+google-api-python-client
+isodate
