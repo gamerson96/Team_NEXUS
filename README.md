@@ -17,7 +17,6 @@
 - [Advanced Concepts](#-advanced-concepts)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [Contact](#-contact)
 
 ---
 
@@ -108,6 +107,29 @@ The Enhanced Disaster AI Predictor is a cutting-edge, AI-powered application des
    streamlit run main.py
    ```
 
+## 📷 Screenshots  
+
+Here are some snapshots of our Disaster AI Predictor in action:  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ac76c1a1-e3ef-42cb-8b17-bef0079a3caf" alt="Dashboard" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9e0478a2-b426-4e8a-a6b8-fff4a43e7aa8" alt="Prediction Screen" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/50e93934-dc4a-4e8e-8ab8-1d602134d159" alt="Map View" width="800"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f4702f43-2618-4ee1-b8f9-7d4066d0d0d0" alt="Alert System" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/31a8766e-a6e9-49f5-b776-deca995ab55b" alt="Analytics" width="800"/>
+</p>
 ---
 
 ## 📘 Usage Guide
