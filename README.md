@@ -1,5 +1,11 @@
 # 🌪️ Enhanced Disaster AI Predictor
 
+Project Done by Team Nexus:
+
+- Ch Shashi Vardhan 22951A66C9
+- Srinivas Mandula 22951A66E4
+- A. Gurupriya 22951a6635
+
 ## 🚀 Empowering Communities Through Advanced Disaster Prediction
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
