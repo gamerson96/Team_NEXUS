@@ -2,7 +2,7 @@
 
 Project Done by Team Nexus:
 
-- Ch Shashi Vardhan 22951A66C9
+- Ch Shashi Vardhan 22951A66C9 (Team Leader)
 - Srinivas Mandula 22951A66E4
 - A. Gurupriya 22951a6635
 
